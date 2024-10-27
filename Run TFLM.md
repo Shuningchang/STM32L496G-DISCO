@@ -1,5 +1,5 @@
 # Detailed Guide: Run TFLM on STM32L496G-DISCO
-reference:彥傑學長Run TFLM on STM32L496G-DISCO
+
 
 ## Prepare
 1. Download [PuTTY](https://www.putty.org/)
